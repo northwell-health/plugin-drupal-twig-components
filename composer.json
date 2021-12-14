@@ -1,5 +1,5 @@
 {
-  "name":             "pattern-lab/drupal-twig-components",
+  "name":             "northwell-pattern-lab/drupal-twig-components",
   "description":      "A collection of Twig components to be used with Drupal- and Twig-related StarterKits.",
   "keywords":         ["drupal", "pattern lab", "twig"],
   "homepage":         "http://patternlab.io",
